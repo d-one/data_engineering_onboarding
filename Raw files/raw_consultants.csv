@@ -1,0 +1,7 @@
+consultant_id,full_name,practice,seniority_level
+C001,Elena Rossi,Data Engineering,Senior
+C002,Lukas Weber,Data Science,Lead
+C002,Lukas Weber,Data Science,Lead
+C003,Maya Lin,Cloud Architecture,invalid_level
+C004,Jan De Smet,,Junior
+C005,Sophie Martin,Data Governance,Manager

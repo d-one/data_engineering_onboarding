@@ -1,0 +1,5 @@
+{"entry_id": "T101", "consultant_id": "C001", "project_code": "PRJ_A", "hours": -4.0, "work_date": "2026-09-01"}
+{"entry_id": "T102", "consultant_id": "C002", "project_code": "PRJ_B", "hours": 7.5, "work_date": "2026-09-01"}
+{"entry_id": "T102", "consultant_id": "C002", "project_code": "PRJ_B", "hours": 7.5, "work_date": "2026-09-01"}
+{"entry_id": "T103", "consultant_id": "C003", "project_code": "PRJ_A", "hours": 3.0, "work_date": "corrupted_date"}
+{"entry_id": "T104", "consultant_id": "C004", "project_code": "PRJ_C", "hours": 0, "work_date": "2026-09-02"}
