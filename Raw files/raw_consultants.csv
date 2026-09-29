@@ -1,7 +1,53 @@
 consultant_id,full_name,practice,seniority_level
 C001,Elena Rossi,Data Engineering,Senior
-C002,Lukas Weber,Data Science,Lead
-C002,Lukas Weber,Data Science,Lead
-C003,Maya Lin,Cloud Architecture,invalid_level
-C004,Jan De Smet,,Junior
-C005,Sophie Martin,Data Governance,Manager
+C001,Elena Rossi,Data Engineering,Senior
+C002,Markus Weber,Cloud Architecture,Lead
+C003,Maya Lin,,invalid_level
+C004,Alex Thorne,AI & Decision Intelligence,Junior
+C005,Sophie Martin,Data Engineering,Senior
+C005,Sophie Martin,Data Engineering,Senior
+C006,Lukas Novak,Cloud Architecture,Junior
+C007,Chloe Dubois,AI & Decision Intelligence,Senior
+C008,Liam O'Connor,Data Engineering,Lead
+C009,Emma Watson,Software Engineering,Junior
+C010,Noah Miller,Cloud Architecture,Senior
+C011,Olivia Davis,AI & Decision Intelligence,Lead
+C012,Ethan Brown,Data Engineering,Junior
+C013,Ava Wilson,Software Engineering,Senior
+C014,Mason Taylor,Cloud Architecture,Junior
+C015,Isabella Anderson,AI & Decision Intelligence,Senior
+C016,William Thomas,Data Engineering,Lead
+C017,Sophia Jackson,Software Engineering,Junior
+C018,James White,Cloud Architecture,Senior
+C019,Charlotte Harris,AI & Decision Intelligence,Junior
+C020,Benjamin Martin,Data Engineering,Senior
+C021,Amelia Thompson,Software Engineering,Lead
+C022,Lucas Garcia,Cloud Architecture,Junior
+C023,Harper Martinez,AI & Decision Intelligence,Senior
+C024,Alexander Robinson,Data Engineering,Junior
+C025,Evelyn Clark,Software Engineering,Senior
+C026,Daniel Rodriguez,Cloud Architecture,Lead
+C027,Abigail Lewis,AI & Decision Intelligence,Junior
+C028,Henry Lee,Data Engineering,Senior
+C029,Emily Walker,Software Engineering,Junior
+C030,Sebastian Hall,Cloud Architecture,Senior
+C031,Elizabeth Allen,AI & Decision Intelligence,Lead
+C032,Jack Young,Data Engineering,Junior
+C033,Avery Hernandez,Software Engineering,Senior
+C034,Owen King,Cloud Architecture,Junior
+C035,Ella Wright,AI & Decision Intelligence,Senior
+C036,Jackson Lopez,Data Engineering,Lead
+C037,Scarlett Hill,Software Engineering,Junior
+C038,Aiden Scott,Cloud Architecture,Senior
+C039,Victoria Green,AI & Decision Intelligence,Junior
+C040,Samuel Adams,Data Engineering,Senior
+C041,Grace Baker,Software Engineering,Lead
+C042,David Gonzalez,Cloud Architecture,Junior
+C043,Chloe Nelson,AI & Decision Intelligence,Senior
+C044,Joseph Carter,Data Engineering,Junior
+C045,Camila Mitchell,Software Engineering,Senior
+C046,Carter Perez,Cloud Architecture,Lead
+C047,Penelope Roberts,AI & Decision Intelligence,Junior
+C048,Wyatt Turner,Data Engineering,Senior
+C049,Riley Phillips,Software Engineering,Junior
+C050,Jayden Campbell,Cloud Architecture,Senior
